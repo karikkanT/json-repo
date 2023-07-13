@@ -15,7 +15,7 @@
     ],
      "entities": [
         {
-            "itxo_idd": 1,
+            "txo_id": 1,
             "entity": "Sourcing"
         },
         {
