@@ -15,15 +15,15 @@
     ],
      "entities": [
         {
-            "id": 1,
+            "itxo_idd": 1,
             "entity": "Sourcing"
         },
         {
-            "id": 2,
+            "txo_id": 2,
             "entity": "Sourcing"
         },
         {
-            "id": 3,
+            "txo_id": 3,
             "entity": "Sourcing"
         }
     ],
