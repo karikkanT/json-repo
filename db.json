@@ -1,109 +1,31 @@
 {
-    "entities": [
+    "posts": [
         {
-            "txo_id": "5.01",
-            "entity_type": "SOURCING LOCATION",
-            "entity_name": "ARDRA ORGANICS FARM - BEDDAMPATTI",
-            "gs1_mapping": "GLN",
-            "gs1_id": "8904368510015",
-            "owning_gln": "8904368510003",
-            "description": null,
-            "instance_class": null,
-            "stock_mgmt": null,
-            "contains_entities": null,
-            "address": null,
-            "lat": 12.505338,
-            "lng": 77.998942,
-            "entity_status": "active",
-            "valid_from": "2023-05-01",
-            "valid_to": null,
-            "scaling_factor": null,
-            "weight_in_grams": null,
-            "metadata": null
+            "id": 1,
+            "title": "Post 1"
         },
         {
-            "txo_id": "5.001",
-            "entity_type": "SOURCING LOCATION",
-            "entity_name": "CHOMBALA HARBOUR",
-            "gs1_mapping": "GLN",
-            "gs1_id": "8904368510020",
-            "owning_gln": "8904368511210",
-            "description": null,
-            "instance_class": null,
-            "stock_mgmt": null,
-            "contains_entities": "NO",
-            "address": null,
-            "lat": 11.661243,
-            "lng": 75.551625,
-            "entity_status": "active",
-            "valid_from": "2021-08-01",
-            "valid_to": null,
-            "scaling_factor": null,
-            "weight_in_grams": null,
-            "metadata": null
+            "id": 2,
+            "title": "Post 2"
         },
         {
-            "txo_id": "5.007",
-            "entity_type": "SOURCING LOCATION",
-            "entity_name": "ELATHUR BEACH",
-            "gs1_mapping": "GLN",
-            "gs1_id": "8904368510009",
-            "owning_gln": "8904368511210",
-            "description": null,
-            "instance_class": null,
-            "stock_mgmt": null,
-            "contains_entities": "NO",
-            "address": null,
-            "lat": 11.341162,
-            "lng": 75.740507,
-            "entity_status": "active",
-            "valid_from": "2021-08-01",
-            "valid_to": null,
-            "scaling_factor": null,
-            "weight_in_grams": null,
-            "metadata": null
+            "id": 3,
+            "title": "Post 3"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
         },
         {
-            "txo_id": "5.002",
-            "entity_type": "SOURCING LOCATION",
-            "entity_name": "KORAPUZHA",
-            "gs1_mapping": "GLN",
-            "gs1_id": "8904368510004",
-            "owning_gln": "8904368511210",
-            "description": null,
-            "instance_class": null,
-            "stock_mgmt": null,
-            "contains_entities": "NO",
-            "address": null,
-            "lat": 11.352688,
-            "lng": 75.735696,
-            "entity_status": "active",
-            "valid_from": "2021-08-01",
-            "valid_to": null,
-            "scaling_factor": null,
-            "weight_in_grams": null,
-            "metadata": null
-        },
-        {
-            "txo_id": "5.008",
-            "entity_type": "SOURCING LOCATION",
-            "entity_name": "KOYILANDI HARBOUR",
-            "gs1_mapping": "GLN",
-            "gs1_id": "8904368510010",
-            "owning_gln": "8904368511210",
-            "description": null,
-            "instance_class": null,
-            "stock_mgmt": null,
-            "contains_entities": "NO",
-            "address": null,
-            "lat": 11.433236,
-            "lng": 75.691864,
-            "entity_status": "active",
-            "valid_from": "2021-08-01",
-            "valid_to": null,
-            "scaling_factor": null,
-            "weight_in_grams": null,
-            "metadata": null
-        },
-    ]
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }
