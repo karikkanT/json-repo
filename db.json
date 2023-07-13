@@ -13,6 +13,20 @@
             "title": "Post 3"
         }
     ],
+     "entities": [
+        {
+            "txo_id": 1,
+            "entity": "Sourcing"
+        },
+        {
+            "txo_id": 2,
+            "entity": "Sourcing"
+        },
+        {
+            "txo_id": 3,
+            "entity": "Sourcing"
+        }
+    ],
     "comments": [
         {
             "id": 1,
