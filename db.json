@@ -1,15 +1,15 @@
 {
     "entities": [
         {
-            "gs1_id": 0015,
+            "gs1_id": 10015,
             "entity": "Sourcing"
         },
         {
-            "gs1_id": 0006,
+            "gs1_id": 10006,
             "entity": "Sourcing"
         },
         {
-            "gs1_id": 0005,
+            "gs1_id": 10005,
             "entity": "Sourcing"
         }
     ]
