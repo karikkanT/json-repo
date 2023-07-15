@@ -20,4 +20,26 @@
             "scaling_factor": null,
             "weight_in_grams": null,
             "metadata": null
-        }]}
+        },
+        {
+            "txo_id": "5.004",
+            "entity_type": "SOURCING LOCATION",
+            "entity_name": "BEYPORE HARBOUR",
+            "gs1_mapping": "GLN",
+            "id": "8904368510006",
+            "owning_gln": "8904368511210",
+            "description": null,
+            "instance_class": null,
+            "stock_mgmt": null,
+            "contains_entities": "NO",
+            "address": null,
+            "lat": 11.17169,
+            "lng": 75.809145,
+            "entity_status": "active",
+            "valid_from": "2021-08-01",
+            "valid_to": null,
+            "scaling_factor": null,
+            "weight_in_grams": null,
+            "metadata": null
+        }
+    ]}
