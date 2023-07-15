@@ -5,7 +5,7 @@
             "entity_type": "SOURCING LOCATION",
             "entity_name": "ARDRA ORGANICS FARM - BEDDAMPATTI",
             "gs1_mapping": "GLN",
-            "gs1_id": "8904368510015",
+            "id": "8904368510015",
             "owning_gln": "8904368510003",
             "description": null,
             "instance_class": null,
