@@ -1,7 +1,7 @@
 {
     "entities": [
         {
-            "txo_id": "5.01",
+            "id": "5.01",
             "entity_type": "SOURCING LOCATION",
             "entity_name": "ARDRA ORGANICS FARM - BEDDAMPATTI",
             "gs1_mapping": "GLN",
